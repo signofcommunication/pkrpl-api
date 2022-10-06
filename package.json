@@ -1,11 +1,11 @@
 {
-  "name": "nicastore api",
+  "name": "Nicastore API",
   "version": "1.0.0",
   "description": "API for nicastore",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "jhvonsky",
